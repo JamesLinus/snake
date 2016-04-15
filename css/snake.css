@@ -1,0 +1,28 @@
+html, body, figure, figcaption, ul, li, h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+  list-style-type: inherit;
+}
+
+.snake {
+  width = 442px;
+}
+
+ul {
+  float: left;
+  width: 20px;
+  margin: auto;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  width: 20px;
+  height: 20px;
+  background-color: hotpink;
+  list-style-type: none;
+  border: 1px solid navy;
+}
